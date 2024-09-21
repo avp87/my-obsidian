@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"371f3caae5df57c5","type":"file","file":"Наука/Моя актуальность.md","x":-820,"y":-580,"width":200,"height":140,"color":"1"},
+		{"id":"af62ce7910506ce5","x":-540,"y":-590,"width":220,"height":160,"color":"4","type":"file","file":"Наука/Моя степень разработанности.md"},
+		{"id":"8d7901cff45780b2","type":"file","file":"Наука/Мои научные положения.md","x":-240,"y":-585,"width":240,"height":150,"color":"2"}
+	],
+	"edges":[
+		{"id":"caea58c8ecccec26","fromNode":"371f3caae5df57c5","fromSide":"right","toNode":"af62ce7910506ce5","toSide":"left"},
+		{"id":"b0b9b71ee1eda3ea","fromNode":"af62ce7910506ce5","fromSide":"right","toNode":"8d7901cff45780b2","toSide":"left"}
+	]
+}
